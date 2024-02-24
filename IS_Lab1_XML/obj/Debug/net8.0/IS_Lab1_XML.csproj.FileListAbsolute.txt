@@ -1,0 +1,15 @@
+C:\Users\Kamil\RiderProjects\IntegracjaSystemow\IS_Lab1_XML\bin\Debug\net8.0\IS_Lab1_XML.exe
+C:\Users\Kamil\RiderProjects\IntegracjaSystemow\IS_Lab1_XML\bin\Debug\net8.0\IS_Lab1_XML.deps.json
+C:\Users\Kamil\RiderProjects\IntegracjaSystemow\IS_Lab1_XML\bin\Debug\net8.0\IS_Lab1_XML.runtimeconfig.json
+C:\Users\Kamil\RiderProjects\IntegracjaSystemow\IS_Lab1_XML\bin\Debug\net8.0\IS_Lab1_XML.dll
+C:\Users\Kamil\RiderProjects\IntegracjaSystemow\IS_Lab1_XML\bin\Debug\net8.0\IS_Lab1_XML.pdb
+C:\Users\Kamil\RiderProjects\IntegracjaSystemow\IS_Lab1_XML\obj\Debug\net8.0\IS_Lab1_XML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\RiderProjects\IntegracjaSystemow\IS_Lab1_XML\obj\Debug\net8.0\IS_Lab1_XML.AssemblyInfoInputs.cache
+C:\Users\Kamil\RiderProjects\IntegracjaSystemow\IS_Lab1_XML\obj\Debug\net8.0\IS_Lab1_XML.AssemblyInfo.cs
+C:\Users\Kamil\RiderProjects\IntegracjaSystemow\IS_Lab1_XML\obj\Debug\net8.0\IS_Lab1_XML.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\RiderProjects\IntegracjaSystemow\IS_Lab1_XML\obj\Debug\net8.0\IS_Lab1_XML.dll
+C:\Users\Kamil\RiderProjects\IntegracjaSystemow\IS_Lab1_XML\obj\Debug\net8.0\refint\IS_Lab1_XML.dll
+C:\Users\Kamil\RiderProjects\IntegracjaSystemow\IS_Lab1_XML\obj\Debug\net8.0\IS_Lab1_XML.pdb
+C:\Users\Kamil\RiderProjects\IntegracjaSystemow\IS_Lab1_XML\obj\Debug\net8.0\IS_Lab1_XML.genruntimeconfig.cache
+C:\Users\Kamil\RiderProjects\IntegracjaSystemow\IS_Lab1_XML\obj\Debug\net8.0\ref\IS_Lab1_XML.dll
+C:\Users\Kamil\RiderProjects\IntegracjaSystemow\IS_Lab1_XML\bin\Debug\net8.0\Assets\data.xml
