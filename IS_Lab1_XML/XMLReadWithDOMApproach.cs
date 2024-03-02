@@ -1,3 +1,5 @@
+using System;
+using System.Collections.Generic;
 using System.Xml;
 
 namespace IS_Lab1_XML;
@@ -43,7 +45,7 @@ public class XMLReadWithDOMApproach
         
         Console.WriteLine("Liczba produktów leczniczych w postaci kremu, których jedyną substancją czynną jest Mometasoni furoas: {0}", count);
         
-        // Zad 1.2.4
+        //Zad 1.2.4
         Console.WriteLine("Zad 1.2.4: ");
         foreach (KeyValuePair<string, List<string>> drug in dict)
         {

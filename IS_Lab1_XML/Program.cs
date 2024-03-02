@@ -15,5 +15,6 @@ class Program
         XMLReadWithSAXApproach.Read(xmlpath);
         Console.WriteLine("XML loaded with XPath");
         XMLReadWithXLSTDOM.Read(xmlpath);
+        Console.ReadLine();
     }
 }

@@ -13,3 +13,4 @@ C:\Users\Kamil\RiderProjects\IntegracjaSystemow\IS_Lab1_XML\obj\Debug\net8.0\IS_
 C:\Users\Kamil\RiderProjects\IntegracjaSystemow\IS_Lab1_XML\obj\Debug\net8.0\IS_Lab1_XML.genruntimeconfig.cache
 C:\Users\Kamil\RiderProjects\IntegracjaSystemow\IS_Lab1_XML\obj\Debug\net8.0\ref\IS_Lab1_XML.dll
 C:\Users\Kamil\RiderProjects\IntegracjaSystemow\IS_Lab1_XML\bin\Debug\net8.0\Assets\data.xml
+C:\Users\Kamil\RiderProjects\IntegracjaSystemow\IS_Lab1_XML\obj\Debug\net8.0\IS_Lab1_XML.sourcelink.json
