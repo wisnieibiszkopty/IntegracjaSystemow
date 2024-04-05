@@ -3024,11 +3024,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\student.DESKTOP-N01B4AU\\Source\\Repos\\IntegracjaSystemow\\IS_Lab5_SOAPCS\\IS_Lab5_SOAPCS.csproj",
+      "projectUniqueName": "C:\\Users\\student.DESKTOP-N01B4AU\\RiderProjects\\IntegracjaSystemow\\IS_Lab5_SOAPCS\\IS_Lab5_SOAPCS.csproj",
       "projectName": "IS_Lab5_SOAPCS",
-      "projectPath": "C:\\Users\\student.DESKTOP-N01B4AU\\Source\\Repos\\IntegracjaSystemow\\IS_Lab5_SOAPCS\\IS_Lab5_SOAPCS.csproj",
+      "projectPath": "C:\\Users\\student.DESKTOP-N01B4AU\\RiderProjects\\IntegracjaSystemow\\IS_Lab5_SOAPCS\\IS_Lab5_SOAPCS.csproj",
       "packagesPath": "C:\\Users\\student.DESKTOP-N01B4AU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\student.DESKTOP-N01B4AU\\Source\\Repos\\IntegracjaSystemow\\IS_Lab5_SOAPCS\\obj\\",
+      "outputPath": "C:\\Users\\student.DESKTOP-N01B4AU\\RiderProjects\\IntegracjaSystemow\\IS_Lab5_SOAPCS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\student.DESKTOP-N01B4AU\\AppData\\Roaming\\NuGet\\NuGet.Config",
